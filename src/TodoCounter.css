@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Quicksand:wght@300..700&display=swap');
+
+
+ #counter {
+    font-size: 15px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.completed-and-total{
+    color: red;
+}
