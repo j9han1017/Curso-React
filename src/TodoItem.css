@@ -1,0 +1,9 @@
+li {
+    text-align: center;
+    background: #AF8F6F;
+    border-radius: 28px;
+    border: #543310 solid 3px;
+    margin: 10px;
+    list-style-type: none;
+    width: 279px;
+}
