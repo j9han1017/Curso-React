@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    position: relative;
+}
+
+#mi-boton {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#mi-boton:hover {
+    background-color: #0056b3;
+}
