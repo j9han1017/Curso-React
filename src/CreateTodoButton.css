@@ -3,6 +3,7 @@ body {
     padding: 0;
     height: 100vh;
     position: relative;
+    background-image: url(https://desarrolloweb.com/media/268/patron.png);
 }
 
 .mi-boton {
